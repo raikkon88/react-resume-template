@@ -174,13 +174,25 @@
         "title":"Autoescola Tramuntana",
         "category":"Car Driver license school website",
         "image":"tramuntana.png",
-        "url":"http://autoescolatramuntana.com"
+        "url":"https://autoescolatramuntana.com"
       },
       {
         "title":"Popop",
         "category":"Web Crowler",
         "image":"popop.png",
-        "url":"http://mspifarre.com"
+        "url":"https://mspifarre.com"
+      },
+      {
+        "title":"Curriculum Vitae v2",
+        "category":"My second Curriculum made with wordpress",
+        "image":"v2.png",
+        "url":"https://v2.mspifarre.com"
+      },
+      {
+        "title":"Curriculum Vitae v1",
+        "category":"My first Curriculum made with pure HTML, CSS and Javascript",
+        "image":"v1.png",
+        "url":"https://v1.mspifarre.com"
       }
     ]
   },
