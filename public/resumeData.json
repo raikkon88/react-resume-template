@@ -1,101 +1,142 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "name":"Marc Sànchez",
+    "occupation":"Student at UDG and èKratos CTO",
+    "description":"Born in Barcelona in 1988, I’ve worked in a different areas, actually only in computer science",
+    "image":"profilepic.png",
+    "bio":"I am extrovert and sociable. I love to work in group and share knowledge with anyone around me. It makes me grow at an extraordinary speed. I try to be fit doing sport, I play Football in a Football 7 league in Girona and I like too much Padel. My winter sport is SnowBoard. I had not enough time to read but I like it. I invest my time at home reading programming manuals about technologies which I am interested or deploying new small functionalities to make my live easier. With me there is always dynamism, I am a person with a sense of humor who does not hesitate to take responsibility when the occasion requires it.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "msanxes@gmail.com",
+    "phone": "608 104 235",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"C/ Del pou nº 4",
+      "city":"Girona",
+      "state":"Catalunya",
+      "zip": "17467"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://mspifarre.com",
+    "resumedownload":"http://mspifarre.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/marc-s%C3%A1nchez-pifarr%C3%A9-383752106/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/raikkon88",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Check my skills!",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"UDG - University of Girona",
+        "degree":"Higher Polytechnic School",
+        "graduated":"2015 - 2020",
+        "description":"University Degree in Computer Engineering (GEINF)"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"IES Montilivi (Girona)",
+        "degree":"Vocational Institute",
+        "graduated":"2013 - 2015",
+        "description":"Higher degree training cycle in multiplatform application development (DAM)"
+      },
+      {
+        "school":"Escuela.it",
+        "degree":"Online Study Center",
+        "graduated":"6 weeks in 2014",
+        "description":"WordPress development course"
+      },
+      {
+        "school":"Escuela.it",
+        "degree":"Online Study Center",
+        "graduated":"1 month in 2013",
+        "description":"PHP development course"
+      },
+      {
+        "school":"Aplieuropa",
+        "degree":"Study Center",
+        "graduated":"60 hours in 2012",
+        "description":"Ubuntu management Course"
+      },
+      {
+        "school":"IES Salvador Espriu (Salt)",
+        "degree":"Compulsory secondary school",
+        "graduated":"2011 - 2013",
+        "description":"Mid-level training cycle in micro-information systems and networks (SMX)"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"University of Girona",
+        "title":"Internship at university of Girona",
+        "years":"February 2018 - Actually",
+        "description":"Helping to improve BCDS research group in University of Girona. Working with graph theory, my task consists on implement new features over Robustness Simulation Graph platform, to launch simulations and to interpret results. Helping professors on paper’s documentation. Linux servers administration."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"CodiTramuntana",
+        "title":"Computer consulting specialized in software development",
+        "years":"June 2015 - February 2018",
+        "description":"Android and C# Developer, worked with Java, WPF (Windows phone) and C#.  Worked on Xamarin Android and IOs and Desktop applications for Windows, Background services too."
+      },
+      {
+        "company":"LaunchMetrics",
+        "title":"DIY warehouses",
+        "years":"June 2013 - June 2015",
+        "description":"Repository manager of shelves and stocks. Responsible for managing the section of machinery with use of forklifts or cranes maximum 8 meters."
+      },
+      {
+        "company":"Naturaki",
+        "title":"Online rural home rental",
+        "years":"March 2012 - May 2013",
+        "description":"Maintainer of houses. Supervision and control of installations of houses, carpentry and plumbing work."
+      },
+      {
+        "company":"Rocktail",
+        "title":"Management and production of events",
+        "years":"May 2009 - September 2011",
+        "description":"Technical lighting and scenario editor during the weekend. Led commercial sale."
+      },
+      {
+        "company":"AquaBrava",
+        "title":"Aquatic Park",
+        "years":"May 2008 - May 2009",
+        "description":"Park maintenance and lifeguards responsible"
+      },
+      {
+        "company":"Palmusic Barcelona",
+        "title":"Electronic musical instrument store.",
+        "years":"September 2006 - May 2008",
+        "description":"Installer clubs in barcelona, Head of stocks, worker in support service."
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
+        "level":"95%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Docker",
+        "level":"80%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"Android",
+        "level":"85%"
+      },
+      {
+        "name":"REACTJS & REACT Native",
+        "level":"75%"
       },
       {
         "name":"CSS",
@@ -103,61 +144,51 @@
       },
       {
         "name":"HTML5",
+        "level":"100%"
+      },
+      {
+        "name":"CSS",
         "level":"80%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"BASH",
+        "level":"90%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"èkratos",
+        "category":"An e-voting platform colaborating with BCDS Research Group",
+        "image":"ekratos.png",
+        "url":"https://ekratos.cat"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Ohana Salut Integrativa",
+        "category":"Health center in Girona",
+        "image":"ohana.png",
+        "url":"https://ohanasalut.com"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Autoescola Tramuntana",
+        "category":"Car Driver license school website",
+        "image":"tramuntana.png",
+        "url":"http://autoescolatramuntana.com"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Popop",
+        "category":"Web Crowler",
+        "image":"popop.png",
+        "url":"http://mspifarre.com"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Marc is a highly motivated developer with a good capacity to analyze problems before solving them, converting him in a very efficient problem solver. Marc is also very curious and perfectionist, passionate for delivering best quality software. As a teammate he is a hard worker and and integrator, you can always count on him. I wish I can work with him again soon!",
+        "user":"Oliver Valls CTO at Coditramuntana"
       }
     ]
   }

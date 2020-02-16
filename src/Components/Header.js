@@ -14,7 +14,7 @@ class Header extends Component {
     }
 
     return (
-      <header id="home">
+      <header id="home" style={{ }}>
 
       <nav id="nav-wrap">
 
