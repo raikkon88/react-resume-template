@@ -89,13 +89,13 @@
         "company":"University of Girona",
         "title":"Internship at university of Girona",
         "years":"February 2018 - Actually",
-        "description":"Helping to improve BCDS research group in University of Girona. Working with graph theory, my task consists on implement new features over Robustness Simulation Graph platform, to launch simulations and to interpret results. Helping professors on paper’s documentation. Linux servers administration."
+        "description":"Helping to improve BCDS research group in University of Girona. The first year I was working with graph theory, implementing new features over Robustness Simulation Graph platform, launching simulations and to inspecting results to help associates with paper's documentation. The last period I have been working on a electronic voting platform with blockchain, modeling blockchain and deploying the platform, it has been deployed on IBM cloud and AWS."
       },
       {
         "company":"CodiTramuntana",
         "title":"Computer consulting specialized in software development",
         "years":"June 2015 - February 2018",
-        "description":"Android and C# Developer, worked with Java, WPF (Windows phone) and C#.  Worked on Xamarin Android and IOs and Desktop applications for Windows, Background services too."
+        "description":"Android and C# Developer, worked with Java, WPF (Windows phone) and C#. Worked on Xamarin Android and IOs and Desktop applications for Windows, Background services too."
       },
       {
         "company":"LaunchMetrics",
@@ -135,7 +135,15 @@
       },
       {
         "name":"Docker",
-        "level":"80%"
+        "level":"90%"
+      },
+      {
+        "name":"Docker-compose",
+        "level":"85%"
+      },
+      {
+        "name":"AWS and IBM Cloud",
+        "level":"75%"
       },
       {
         "name":"Java",
@@ -143,7 +151,7 @@
       },
       {
         "name":"Javascript",
-        "level":"80%"
+        "level":"90%"
       },
       {
         "name":"Android",
@@ -151,7 +159,7 @@
       },
       {
         "name":"REACTJS & REACT Native",
-        "level":"75%"
+        "level":"95%"
       },
       {
         "name":"CSS",
@@ -162,10 +170,6 @@
         "level":"100%"
       },
       {
-        "name":"CSS",
-        "level":"80%"
-      },
-      {
         "name":"BASH",
         "level":"90%"
       }
@@ -174,7 +178,7 @@
   "portfolio":{
     "projects": [
       {
-        "title":"èkratos",
+        "title":"éKratos",
         "category":"An e-voting platform colaborating with BCDS Research Group",
         "image":"ekratos.png",
         "url":"https://ekratos.cat"
