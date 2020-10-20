@@ -7,7 +7,7 @@ class Resume extends Component {
       var skillmessage = this.props.data.skillmessage;
       var scoresmessage = this.props.data.scoresmessage;
       var education = this.props.data.education.map(function(education){
-        return <div key={education.school}><h3>{education.school}</h3>
+        return <div key={education.school + "-" + education.description}><h3>{education.school}</h3>
         <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
         <p>{education.description}</p></div>
       })
@@ -19,7 +19,6 @@ class Resume extends Component {
       })
       
       let compare = (scoreA, scoreB, annotation) => {
-        console.log(scoreA)
         let numberA = scoreA.level.substring(0, scoreA.level.length - 1)
         let numberB = scoreB.level.substring(0, scoreB.level.length - 1)
         return (parseInt(numberB) + ( annotation ? scoreB.annotation ? 1 : 0 : 0)) - (parseInt(numberA) + (annotation ? scoreA.annotation ? 1 : 0 : 0))
@@ -30,13 +29,6 @@ class Resume extends Component {
         var className = 'bar-expand '+skills.name.toLowerCase();
         return <li key={skills.name}><span style={{width:skills.level}} className={className}></span><em>{skills.name}</em></li>
       })
-
-      /* let compare = (scoreA, scoreB) => {
-        console.log(scoreA)
-        let numberA = scoreA.level.substring(0, scoreA.level.length - 1)
-        let numberB = scoreB.level.substring(0, scoreB.level.length - 1)
-        return (parseInt(numberB) + (scoreB.annotation ? 1 : 0)) - (parseInt(numberA) + (scoreA.annotation ? 1 : 0))
-      } */
 
       var scores = this.props.data.scores.sort(compare).map(function(score) {
       var className = 'bar-expand '+score.name.toLowerCase();
