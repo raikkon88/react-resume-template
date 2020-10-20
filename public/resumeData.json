@@ -86,9 +86,15 @@
     ],
     "work":[
       {
+        "company":"Ékratos Digital Systems",
+        "title":"Chief Technology and Operations Officer",
+        "years":"October 2020 - Actually",
+        "description":"Developing and mantaining an electronic voting platform made with blockchain technology"
+      },
+      {
         "company":"University of Girona",
         "title":"Internship at university of Girona",
-        "years":"February 2018 - Actually",
+        "years":"February 2018 - September 2019",
         "description":"The last period I have been working on a electronic voting platform with blockchain, modeling the blockchain and deploying the platform, it has been deployed on IBM cloud and AWS. The first year I was working with graphs theory, implementing new features over Robustness Simulation Graph platform, launching simulations and to inspecting results to help professors with paper's documentation."
       },
       {
