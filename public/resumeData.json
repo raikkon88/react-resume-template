@@ -28,6 +28,11 @@
         "className":"fa fa-github"
       },
       {
+        "name": "Stack Overflow",
+        "url": "https://stackoverflow.com/users/6546221/marcsanchez",
+        "className": "fa fa-stack-overflow"
+      },
+      {
         "name":"facebook",
         "url":"https://www.facebook.com/marc.sanchezpifarre",
         "className":"fa fa-facebook"
@@ -89,7 +94,7 @@
         "company":"Ékratos Digital Systems",
         "title":"Chief Technology and Operations Officer",
         "years":"October 2020 - Actually",
-        "description":"Developing and mantaining an electronic voting platform made with blockchain technology"
+        "description":"Developing and mantaining an electronic voting platform made with blockchain technology."
       },
       {
         "company":"University of Girona",
@@ -145,7 +150,11 @@
       },
       {
         "name":"Docker-compose",
-        "level":"85%"
+        "level":"90%"
+      },
+      {
+        "name":"Docker Swarm",
+        "level":"90%"
       },
       {
         "name":"AWS and IBM Cloud",
@@ -153,6 +162,10 @@
       },
       {
         "name":"Java",
+        "level":"90%"
+      },
+      {
+        "name":"Spring boot - framework",
         "level":"90%"
       },
       {
