@@ -1,7 +1,7 @@
 {
   "main": {
     "name":"Marc Sànchez",
-    "occupation":"Computer engineer, intern at University of Girona",
+    "occupation":"Computer engineer",
     "description":"Born in Barcelona in 1988, I’ve worked in a different areas, actually only in computer science",
     "image":"profilepic.png",
     "bio":"I am extrovert and sociable. I love to work in group and share knowledge with anyone around me. It makes me grow at an extraordinary speed. I try to be fit doing sport, I play Football in a Football 7 league in Girona and I like too much Padel. My winter sport is SnowBoard. I had not enough time to read but I like it. I invest my time at home reading programming manuals about technologies which I am interested or deploying new small functionalities to make my live easier. With me there is always dynamism, I am a person with a sense of humor who does not hesitate to take responsibility when the occasion requires it.",
@@ -51,6 +51,7 @@
   },
   "resume":{
     "skillmessage":"Check my skills!",
+    "scoresmessage":"Check my degree scores!",
     "education":[
       {
         "school":"UDG - University of Girona",
@@ -192,6 +193,45 @@
         "name":"BASH",
         "level":"90%"
       }
+    ],
+    "scores": [
+      {"name":"ALGEBRA", "level":"75%", "annotation": ""},
+      {"name":"CALCULATION", "level":"57%", "annotation": ""},
+      {"name":"DISCRETE LOGIC AND MATHEMATICS", "level":"75%", "annotation": ""},
+      {"name":"PROGRAMMING METHODOLOGY AND TECHNOLOGY I", "level":"77%", "annotation": ""},
+      {"name":"COMPUTER STRUCTURE AND TECHNOLOGY", "level":"61%", "annotation": ""},
+      {"name":"PHYSICS AND ELECTRONICS", "level":"60%", "annotation": ""},
+      {"name":"PROGRAMMING METHODOLOGY AND TECHNOLOGY II", "level":"79%", "annotation": ""},
+      {"name":"COMPUTER STRUCTURE AND TECHNOLOGY II", "level":"80%", "annotation": ""},
+      {"name":"STATISTICS", "level":"62%", "annotation": ""},
+      {"name":"DATA STRUCTURES AND ALGORITHM", "level":"72%", "annotation": ""},
+      {"name":"PROGRAMMING PROJECT", "level":"65%", "annotation": ""},
+      {"name":"DIGITAL SYSTEMS", "level":"79%", "annotation": ""},
+      {"name":"COMPUTERS", "level":"76%", "annotation": ""},
+      {"name":"DATABASES", "level":"90%", "annotation": "With Honors"},
+      {"name":"SOFTWARE ENGINEERING I", "level":"90%", "annotation": ""},
+      {"name":"OPERATING SYSTEMS", "level":"85%", "annotation": ""},
+      {"name":"BUSINESS ORGANIZATION AND ADMINISTRATION", "level":"70%", "annotation": ""},
+      {"name":"MULTIMEDIA AND USER INTERFACES", "level":"86%", "annotation": ""},
+      {"name":"PARADIGMS AND PROGRAMMING LANGUAGES", "level":"85%", "annotation": ""},
+      {"name":"OPERATING SYSTEMS PROJECT", "level":"92%", "annotation": "With Honors"},
+      {"name":"NETWORKS", "level":"85%", "annotation": ""},
+      {"name":"NETWORK PROJECT", "level":"84%", "annotation": ""},
+      {"name":"LEGISLATION AND PROFESSIONAL ETHICS", "level":"95%", "annotation": "With Honors"},
+      {"name":"FUNDAMENTALS OF COMPUTING", "level":"74%", "annotation": ""},
+      {"name":"ARTIFICIAL INTELLIGENCE", "level":"90%", "annotation": "With Honors"},
+      {"name":"COMPUTER ARCHITECTURE", "level":"90%", "annotation": "With Honors"},
+      {"name":"SOFTWARE ENGINEERING II - Dessign patterns", "level":"95%", "annotation": "With Honors"},
+      {"name":"SOFTWARE DEVELOPMENT PROJECTS", "level":"100%", "annotation": ""},
+      {"name":"INDUSTRIAL COMPUTING AND ROBOTICS", "level":"85%", "annotation": ""},
+      {"name":"WEB ENVIRONMENT PROGRAMMING", "level":"92%", "annotation": ""},
+      {"name":"SECURITY AND DATA PROTECTION", "level":"93%", "annotation": "With Honors"},
+      {"name":"OPTIMIZATION", "level":"93%", "annotation": ""},
+      {"name":"SYSTEMS ADMINISTRATION", "level":"90%", "annotation": ""},
+      {"name":"MAIN NETWORKS AND PUBLIC DATA SERVICES", "level":"90%", "annotation": ""},
+      {"name":"MAINTENANCE OF NETWORKS AND INTERNET SERVICES", "level":"100%", "annotation": "With Honors"},
+      {"name":"DEGREE PROJECT - Electronic voting platform", "level":"95%", "annotation": ""},
+      {"name":"STAYS IN WORK ENVIRONMENT", "level":"100%", "annotation": ""}
     ]
   },
   "portfolio":{
