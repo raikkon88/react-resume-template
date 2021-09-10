@@ -164,6 +164,10 @@
         "level": "95%"
       },
       {
+        "name": "Javascript",
+        "level": "95%"
+      },
+      {
         "name": "Docker",
         "level": "90%"
       },
@@ -188,10 +192,6 @@
         "level": "90%"
       },
       {
-        "name": "Javascript",
-        "level": "90%"
-      },
-      {
         "name": "Android",
         "level": "85%"
       },
@@ -210,6 +210,18 @@
       {
         "name": "BASH",
         "level": "90%"
+      },
+      {
+        "name": "Typescript",
+        "level": "80%"
+      },
+      {
+        "name": "Apollo graph-QL",
+        "level": "80%"
+      },
+      {
+        "name": "AWS",
+        "level": "60%"
       }
     ],
     "scores": [
