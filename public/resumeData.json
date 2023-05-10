@@ -1,50 +1,50 @@
 {
   "main": {
-    "name": "Marc Sànchez",
+    "name": "John Doe",
     "occupation": "Computer engineer",
-    "description": "Born in Barcelona in 1988, I’ve worked in a different areas, actually only in computer science",
-    "image": "profilepic.png",
-    "bio": "I am extrovert and sociable. I love to work in group and share knowledge with anyone around me. It makes me grow at an extraordinary speed. I try to be fit doing sport, I play Football in a Football 7 league in Girona and I like too much Padel. My winter sport is SnowBoard. I had not enough time to read but I like it. I invest my time at home reading programming manuals about technologies which I am interested or deploying new small functionalities to make my live easier. With me there is always dynamism, I am a person with a sense of humor who does not hesitate to take responsibility when the occasion requires it.",
+    "description": "This is the description",
+    "image": "profile.png",
+    "bio": "Set up your description",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "msanxes@gmail.com",
-    "phone": "608 104 235",
+    "email": "john@doe.com",
+    "phone": "999 999 999",
     "address": {
-      "street": "C/ Del pou nº 4",
-      "city": "Girona",
-      "state": "Catalunya",
-      "zip": "17467"
+      "street": "My street",
+      "city": "My city",
+      "state": "My state",
+      "zip": "99999"
     },
-    "website": "http://mspifarre.com",
-    "resumedownload": "http://mspifarre.com",
+    "website": "http://my.website.com",
+    "resumedownload": "http://my.resume.pdf.com",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/marc-s%C3%A1nchez-pifarr%C3%A9-383752106/",
+        "url": "#",
         "className": "fa fa-linkedin"
       },
       {
         "name": "github",
-        "url": "https://github.com/raikkon88",
+        "url": "#",
         "className": "fa fa-github"
       },
       {
         "name": "Stack Overflow",
-        "url": "https://stackoverflow.com/users/6546221/marcsanchez",
+        "url": "#",
         "className": "fa fa-stack-overflow"
       },
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/marc.sanchezpifarre",
+        "url": "#",
         "className": "fa fa-facebook"
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/raikkon88",
+        "url": "#",
         "className": "fa fa-twitter"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/sanchezpifarre/",
+        "url": "#",
         "className": "fa fa-instagram"
       }
     ]
@@ -54,115 +54,39 @@
     "scoresmessage": "Check my degree scores!",
     "education": [
       {
-        "school": "UDG - University of Girona",
+        "school": "Lorem ipsum",
         "degree": "Higher Polytechnic School",
         "graduated": "2015 - 2020",
-        "description": "University Degree in Computer Engineering (GEINF)"
+        "description": "Studies description"
       },
       {
-        "school": "IES Montilivi (Girona)",
+        "school": "Lorem ipsum",
         "degree": "Vocational Institute",
         "graduated": "2013 - 2015",
-        "description": "Higher degree training cycle in multiplatform application development (DAM)"
+        "description": "Studies description"
       },
       {
-        "school": "Escuela.it",
+        "school": "Lorem ipsum",
         "degree": "Online Study Center",
         "graduated": "6 weeks in 2014",
-        "description": "WordPress development course"
-      },
-      {
-        "school": "Escuela.it",
-        "degree": "Online Study Center",
-        "graduated": "1 month in 2013",
-        "description": "PHP development course"
-      },
-      {
-        "school": "Aplieuropa",
-        "degree": "Study Center",
-        "graduated": "60 hours in 2012",
-        "description": "Ubuntu management Course"
-      },
-      {
-        "school": "IES Salvador Espriu (Salt)",
-        "degree": "Compulsory secondary school",
-        "graduated": "2011 - 2013",
-        "description": "Mid-level training cycle in micro-information systems and networks (SMX)"
+        "description": "Studies description"
       }
     ],
     "work": [
       {
-        "company": "IES Montilivi - (Girona)",
-        "title": "Cibersecurity Professor",
+        "company": "Lorem ipsum",
+        "title": "Full stack develooper",
         "years": "September 2021 - Actually",
-        "description": "Cibersecurity vocational training."
+        "description": "Job description"
       },
       {
-        "company": "Launchmetrics",
+        "company": "Lorem ipsum",
         "title": "Full-Stack developer",
         "years": "December 2020 - Actually",
-        "description": "Developing and mantaining a dedicated fashion and beauty media platform."
-      },
-      {
-        "company": "Ékratos Digital Systems",
-        "title": "Chief Technology and Operations Officer",
-        "years": "September 2019 - December 2020",
-        "description": "Developing and mantaining an electronic voting platform made with blockchain technology."
-      },
-      {
-        "company": "University of Girona",
-        "title": "Internship at university of Girona",
-        "years": "February 2018 - September 2019",
-        "description": "The last period I have been working on a electronic voting platform with blockchain, modeling the blockchain and deploying the platform, it has been deployed on IBM cloud and AWS. The first year I was working with graphs theory, implementing new features over Robustness Simulation Graph platform, launching simulations and to inspecting results to help professors with paper's documentation."
-      },
-      {
-        "company": "CodiTramuntana",
-        "title": "Computer consulting specialized in software development",
-        "years": "June 2015 - February 2018",
-        "description": "Android and C# Developer, worked with Java, WPF (Windows phone) and C#. Worked on Xamarin Android and IOs and Desktop applications for Windows, Background services too."
-      },
-      {
-        "company": "LaunchMetrics",
-        "title": "Filter in data department",
-        "years": "August 2013 - June 2015",
-        "description": "Usage of internal management tool through filters made with regular expressions."
-      },
-      {
-        "company": "Bauhaus Girona",
-        "title": "DIY warehouses",
-        "years": "March 2013 - August 2013",
-        "description": "Filling the shop during the night with new stock."
-      },
-      {
-        "company": "Naturaki",
-        "title": "Online rural home rental",
-        "years": "March 2012 - March 2013",
-        "description": "Maintainer of houses. Supervision and control of installations of houses, carpentry and plumbing work."
-      },
-      {
-        "company": "Rocktail",
-        "title": "Management and production of events",
-        "years": "May 2009 - September 2011",
-        "description": "Technical lighting and scenario editor during the weekend. Led commercial sale."
-      },
-      {
-        "company": "AquaBrava",
-        "title": "Aquatic Park",
-        "years": "May 2008 - May 2009",
-        "description": "Park maintenance and lifeguards responsible"
-      },
-      {
-        "company": "Palmusic Barcelona",
-        "title": "Electronic musical instrument store.",
-        "years": "September 2006 - May 2008",
-        "description": "Installer clubs in barcelona, Head of stocks, worker in support service."
+        "description": "Job description"
       }
     ],
     "skills": [
-      {
-        "name": "Git",
-        "level": "95%"
-      },
       {
         "name": "Javascript",
         "level": "95%"
@@ -172,51 +96,15 @@
         "level": "90%"
       },
       {
-        "name": "Docker-compose",
-        "level": "90%"
-      },
-      {
-        "name": "Docker Swarm",
-        "level": "90%"
-      },
-      {
-        "name": "AWS and IBM Cloud",
-        "level": "75%"
-      },
-      {
         "name": "Java",
         "level": "90%"
-      },
-      {
-        "name": "Spring boot - framework",
-        "level": "90%"
-      },
-      {
-        "name": "Android",
-        "level": "85%"
-      },
-      {
-        "name": "REACTJS & REACT Native",
-        "level": "95%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
-        "level": "100%"
       },
       {
         "name": "BASH",
         "level": "90%"
       },
       {
-        "name": "Typescript",
-        "level": "80%"
-      },
-      {
-        "name": "Apollo graph-QL",
+        "name": "Python",
         "level": "80%"
       }
     ],
@@ -237,158 +125,30 @@
         "name": "COMPUTER STRUCTURE AND TECHNOLOGY",
         "level": "61%",
         "annotation": ""
-      },
-      { "name": "PHYSICS AND ELECTRONICS", "level": "60%", "annotation": "" },
-      {
-        "name": "PROGRAMMING METHODOLOGY AND TECHNOLOGY II",
-        "level": "79%",
-        "annotation": ""
-      },
-      {
-        "name": "COMPUTER STRUCTURE AND TECHNOLOGY II",
-        "level": "80%",
-        "annotation": ""
-      },
-      { "name": "STATISTICS", "level": "62%", "annotation": "" },
-      {
-        "name": "DATA STRUCTURES AND ALGORITHM",
-        "level": "72%",
-        "annotation": ""
-      },
-      { "name": "PROGRAMMING PROJECT", "level": "65%", "annotation": "" },
-      { "name": "DIGITAL SYSTEMS", "level": "79%", "annotation": "" },
-      { "name": "COMPUTERS", "level": "76%", "annotation": "" },
-      { "name": "DATABASES", "level": "90%", "annotation": "With Honors" },
-      { "name": "SOFTWARE ENGINEERING I", "level": "90%", "annotation": "" },
-      { "name": "OPERATING SYSTEMS", "level": "85%", "annotation": "" },
-      {
-        "name": "BUSINESS ORGANIZATION AND ADMINISTRATION",
-        "level": "70%",
-        "annotation": ""
-      },
-      {
-        "name": "MULTIMEDIA AND USER INTERFACES",
-        "level": "86%",
-        "annotation": ""
-      },
-      {
-        "name": "PARADIGMS AND PROGRAMMING LANGUAGES",
-        "level": "85%",
-        "annotation": ""
-      },
-      {
-        "name": "OPERATING SYSTEMS PROJECT",
-        "level": "92%",
-        "annotation": "With Honors"
-      },
-      { "name": "NETWORKS", "level": "85%", "annotation": "" },
-      { "name": "NETWORK PROJECT", "level": "84%", "annotation": "" },
-      {
-        "name": "LEGISLATION AND PROFESSIONAL ETHICS",
-        "level": "95%",
-        "annotation": "With Honors"
-      },
-      { "name": "FUNDAMENTALS OF COMPUTING", "level": "74%", "annotation": "" },
-      {
-        "name": "ARTIFICIAL INTELLIGENCE",
-        "level": "90%",
-        "annotation": "With Honors"
-      },
-      {
-        "name": "COMPUTER ARCHITECTURE",
-        "level": "90%",
-        "annotation": "With Honors"
-      },
-      {
-        "name": "SOFTWARE ENGINEERING II - Dessign patterns",
-        "level": "95%",
-        "annotation": "With Honors"
-      },
-      {
-        "name": "SOFTWARE DEVELOPMENT PROJECTS",
-        "level": "100%",
-        "annotation": ""
-      },
-      {
-        "name": "INDUSTRIAL COMPUTING AND ROBOTICS",
-        "level": "85%",
-        "annotation": ""
-      },
-      {
-        "name": "WEB ENVIRONMENT PROGRAMMING",
-        "level": "92%",
-        "annotation": ""
-      },
-      {
-        "name": "SECURITY AND DATA PROTECTION",
-        "level": "93%",
-        "annotation": "With Honors"
-      },
-      { "name": "OPTIMIZATION", "level": "93%", "annotation": "" },
-      { "name": "SYSTEMS ADMINISTRATION", "level": "90%", "annotation": "" },
-      {
-        "name": "MAIN NETWORKS AND PUBLIC DATA SERVICES",
-        "level": "90%",
-        "annotation": ""
-      },
-      {
-        "name": "MAINTENANCE OF NETWORKS AND INTERNET SERVICES",
-        "level": "100%",
-        "annotation": "With Honors"
-      },
-      {
-        "name": "DEGREE PROJECT - Electronic voting platform",
-        "level": "95%",
-        "annotation": ""
-      },
-      { "name": "STAYS IN WORK ENVIRONMENT", "level": "100%", "annotation": "" }
+      }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "éKratos",
-        "category": "An e-voting platform colaborating with BCDS Research Group",
-        "image": "ekratos.png",
-        "url": "https://ekratos.cat"
+        "title": "Project name",
+        "category": "Lorem ipsum",
+        "image": "p1.png",
+        "url": "#"
       },
       {
-        "title": "Ohana Salut Integrativa",
-        "category": "Health center in Girona",
-        "image": "ohana.png",
-        "url": "https://ohanasalut.com"
-      },
-      {
-        "title": "Autoescola Tramuntana",
-        "category": "Car Driver license school website",
-        "image": "tramuntana.png",
-        "url": "https://autoescolatramuntana.com"
-      },
-      {
-        "title": "Popop",
-        "category": "Web Crowler",
-        "image": "popop.png",
-        "url": "https://mspifarre.com"
-      },
-      {
-        "title": "Curriculum Vitae v2",
-        "category": "My second Curriculum made with wordpress",
-        "image": "v2.png",
-        "url": "https://v2.mspifarre.com"
-      },
-      {
-        "title": "Curriculum Vitae v1",
-        "category": "My first Curriculum made with pure HTML, CSS and Javascript",
-        "image": "v1.png",
-        "url": "https://v1.mspifarre.com"
+        "title": "Project name",
+        "category": "Lorem ipsum",
+        "image": "p2.png",
+        "url": "#"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Marc is a highly motivated developer with a good capacity to analyze problems before solving them, converting him in a very efficient problem solver. Marc is also very curious and perfectionist, passionate for delivering best quality software. As a teammate he is a hard worker and and integrator, you can always count on him. I wish I can work with him again soon!",
-        "user": "Oliver Valls CTO at Coditramuntana"
+        "text": "Put your testimonial here!",
+        "user": "Who said that from you??"
       }
     ]
   }
