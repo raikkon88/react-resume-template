@@ -4,7 +4,6 @@ frontend:
     build:
       commands:
         - npm install
-        - npm install -g react-scripts
         - npm run build
   artifacts:
     baseDirectory: build
