@@ -8,6 +8,7 @@ import About from "./Components/About";
 import Resume from "./Components/Resume";
 import Testimonials from "./Components/Testimonials";
 import Portfolio from "./Components/Portfolio";
+import axios from 'axios'
 
 class App extends Component {
   constructor(props) {
@@ -22,18 +23,7 @@ class App extends Component {
   }
 
   getResumeData() {
-    $.ajax({
-      url: "/resumeData.json",
-      dataType: "json",
-      cache: false,
-      success: function (data) {
-        this.setState({ resumeData: data });
-      }.bind(this),
-      error: function (xhr, status, err) {
-        console.log(err);
-        alert(err);
-      },
-    });
+    axios.get(process.env.REACT_APP_DATA_URL || "/resumeData.json").then(res=> this.setState({ resumeData: res.data })).catch(err => alert(err))
   }
 
   componentDidMount() {
