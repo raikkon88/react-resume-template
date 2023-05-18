@@ -8,6 +8,7 @@ import About from "./Components/About";
 import Resume from "./Components/Resume";
 import Testimonials from "./Components/Testimonials";
 import Portfolio from "./Components/Portfolio";
+// import Contact from "./Components/Contact";
 import axios from 'axios'
 
 class App extends Component {
@@ -23,7 +24,7 @@ class App extends Component {
   }
 
   getResumeData() {
-    axios.get(process.env.REACT_APP_DATA_URL || "/resumeData.json").then(res=> this.setState({ resumeData: res.data })).catch(err => alert(err))
+    axios.get(/*process.env.REACT_APP_DATA_URL ||*/ "/resumeData.json").then(res=> this.setState({ resumeData: res.data })).catch(err => alert(err))
   }
 
   componentDidMount() {
@@ -38,6 +39,7 @@ class App extends Component {
         <Resume data={this.state.resumeData.resume} />
         <Testimonials data={this.state.resumeData.testimonials} />
         <Portfolio data={this.state.resumeData.portfolio} />
+        {/* {<Contact data={this.state.resumeData.main}/>} */}
         <Footer data={this.state.resumeData.main} />
       </div>
     );

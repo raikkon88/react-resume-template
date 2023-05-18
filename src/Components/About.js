@@ -32,7 +32,7 @@ class About extends Component {
                   <p className="address">
 						   <span>{name}</span><br />
 						   <span>{street}<br />
-						         {city} {state}, {zip}
+						         {city}{zip}, {state} 
                    </span><br />
 						   <span>{phone}</span><br />
                      <span>{email}</span>
@@ -40,7 +40,7 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
+                     <a href={resumeDownload} download="curriculum_vitae_es.pdf" className="button">Download Resume (Spanish)</a>
                   </p>
                </div>
             </div>
