@@ -24,7 +24,7 @@ class App extends Component {
   }
 
   getResumeData() {
-    axios.get(/*process.env.REACT_APP_DATA_URL ||*/ "/resumeData.json").then(res=> this.setState({ resumeData: res.data })).catch(err => alert(err))
+    axios.get(process.env.REACT_APP_DATA_URL || "/resumeData.json").then(res=> this.setState({ resumeData: res.data })).catch(err => alert(err))
   }
 
   componentDidMount() {
