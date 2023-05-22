@@ -110,27 +110,12 @@
       { "name": "ALGEBRA", "level": "75%", "annotation": "" }
     ]
   },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "Project name",
-        "category": "Lorem ipsum",
-        "image": "p1.png",
-        "url": "#"
-      },
-      {
-        "title": "Project name",
-        "category": "Lorem ipsum",
-        "image": "p2.png",
-        "url": "#"
-      }
-    ]
-  },
+ 
   "testimonials": {
     "testimonials": [
       {
         "text": "Put your testimonial here!",
-        "user": "Marc Traver Serra - Director of Information Systems of the Hospital of Olot "
+        "user": "Marc Traver Serra - Director of Information Systems in Olot's Hospital "
       }
     ]
   }
