@@ -1,51 +1,29 @@
 {
   "main": {
-    "name": "John Doe",
-    "occupation": "Computer engineer",
-    "description": "This is the description",
+    "name": "Christian Nuñez",
+    "occupation": "System Administrator",
+    "description": "Born in Honduras in 2001, actually I'm unemployed but I'm looking for a new job where I can develop my potential ",
     "image": "profile.png",
-    "bio": "Set up your description",
+    "bio": "I am a system administrator familiar with virtualization with VMWare, backup systems with Veeam and with WatchGuard firewalls, plus I have been working for a year in the healthcare sector, which I could describe as a very complex environment where I learned to control my emotions under stressful situations and being a very decisive person.I could describe myself as a very responsible person who at first tends to be very reserved but very sociable and eager to meet and be known. Learning and improving over time is one of my main objectives, I really want to continue growing both personally and professionally, from this I could highlight that right now I am very interested in CyberSecurity and it is a sector where I would like to finish working and show my potential once I get the necessary training.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "john@doe.com",
-    "phone": "999 999 999",
+    "email": "crisjapheth2334@gmail.com",
     "address": {
-      "street": "My street",
-      "city": "My city",
-      "state": "My state",
-      "zip": "99999"
+      "city": "Olot",
+      "state": "Girona",
+      "zip": "17800"
     },
     "website": "http://my.website.com",
     "resumedownload": "http://my.resume.pdf.com",
     "social": [
       {
         "name": "linkedin",
-        "url": "#",
+        "url": "https://es.linkedin.com/in/christian-nu%C3%B1ez-izaguirre-4baa60240?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fes.linkedin.com%2Fpub%2Fdir%2FChristian%2FN%25C3%25BA%25C3%25B1ez%2Fes-0-Espa%25C3%25B1a",
         "className": "fa fa-linkedin"
       },
       {
         "name": "github",
-        "url": "#",
+        "url": "https://github.com/Purpl9",
         "className": "fa fa-github"
-      },
-      {
-        "name": "Stack Overflow",
-        "url": "#",
-        "className": "fa fa-stack-overflow"
-      },
-      {
-        "name": "facebook",
-        "url": "#",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "#",
-        "className": "fa fa-twitter"
-      },
-      {
-        "name": "instagram",
-        "url": "#",
-        "className": "fa fa-instagram"
       }
     ]
   },
@@ -54,30 +32,30 @@
     "scoresmessage": "Check my degree scores!",
     "education": [
       {
-        "school": "Lorem ipsum",
-        "degree": "Higher Polytechnic School",
-        "graduated": "2015 - 2020",
-        "description": "Studies description"
+        "school": "IES Bosc De La Coma",
+        "degree": "Vocational School",
+        "graduated": "2017 - 2019",
+        "description": "Medium degree training cycle in Microcomputer Systems and Networks (SMX)"
       },
       {
-        "school": "Lorem ipsum",
-        "degree": "Vocational Institute",
-        "graduated": "2013 - 2015",
-        "description": "Studies description"
+        "school": "IES Bosc De La Coma",
+        "degree": "Vocational School",
+        "graduated": "2019 - 2021",
+        "description": "Higher degree training cycle in System Administration and Networks (ASIX)"
       },
       {
-        "school": "Lorem ipsum",
-        "degree": "Online Study Center",
-        "graduated": "6 weeks in 2014",
-        "description": "Studies description"
+        "school": "Institut Montilivi",
+        "degree": "Vocational School",
+        "graduated": "2022 - 2023",
+        "description": "Specialization course in CyberSecurity"
       }
     ],
     "work": [
       {
-        "company": "Lorem ipsum",
-        "title": "Full stack develooper",
-        "years": "September 2021 - Actually",
-        "description": "Job description"
+        "company": "Fundació Hospital d'Olot i Comarcal de la Garrotxa",
+        "title": "System Administrator",
+        "years": "November 2022 - January 2023",
+        "description": ""
       },
       {
         "company": "Lorem ipsum",
