@@ -4,8 +4,8 @@
     "occupation": "System Administrator",
     "description": " Welcome to my Resume",
     "image": "profile.png",
-    "bio": "I am a system administrator familiar with virtualization with VMWare, backup systems with Veeam and with WatchGuard firewalls, plus I have been working for a year in the healthcare sector, which I could describe as a very complex environment where I learned to control my emotions under stressful situations and being a very decisive person.I could describe myself as a very responsible person who at first tends to be very reserved but very sociable and eager to meet and be known. Learning and improving over time is one of my main objectives, I really want to continue growing both personally and professionally, from this I could highlight that right now I am very interested in CyberSecurity and it is a sector where I would like to finish working and show my potential once I get the necessary training.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "bio": "I consider myself a persevering, responsible and perfectionist person.I love working in groups and being able to learn and teach others my knowledge. I love learning and training to improve professionally and personally, I always try to learn something new.",
+    "contactmessage": "To get more information you can contact me via mail or LinkedIn",
     "email": "crisjapheth2334@gmail.com",
     "address": {
       "city": "Olot",
@@ -32,22 +32,22 @@
     "scoresmessage": "Check my degree scores!",
     "education": [
       {
-        "school": "IES Bosc De La Coma",
-        "degree": "Vocational School",
-        "graduated": "2017 - 2019",
-        "description": "Medium degree training cycle in Microcomputer Systems and Networks (SMX)"
-      },
-      {
-        "school": "IES Bosc De La Coma",
-        "degree": "Vocational School",
-        "graduated": "2019 - 2021",
-        "description": "Higher degree training cycle in System Administration and Networks (ASIX)"
-      },
-      {
         "school": "Institut Montilivi",
-        "degree": "Vocational School",
-        "graduated": "2022 - 2023",
-        "description": "Specialization course in CyberSecurity"
+        "degree": "Specialization CyberSecurity",
+        "graduated": "September 2022 - June 2023",
+        "description": "Pentesting, Dockerization, scripting with Python and Bash, secure application development, introduction to AWS... etc"
+      },
+      {
+        "school": "IES Bosc De La Coma",
+        "degree": "HNC - Network and System Administration",
+        "graduated": "2019 - 2021",
+        "description": "Administer and maintain computer systems and networks, ensuring the integrity and functionality of the services and resources provided."
+      },
+      {
+        "school": "IES Bosc De La Coma",
+        "degree": "VET - Microcomputer Systems and Networks",
+        "graduated": "2017 - 2019",
+        "description": "Install and mantain Windows and Linux servers and clients, Internet services, Active Directory."
       }
     ],
     "work": [
@@ -55,25 +55,25 @@
         "company": "Fundació Hospital d'Olot i Comarcal de la Garrotxa",
         "title": "System Administrator",
         "years": "November 2022 - January 2023",
-        "description": ""
+        "description": "Manage and maintain the computer system and networks of the entire foundation, this includes the entire Olot hospital and the primary care centers (ABS) of the Garrotxa. This includes tasks related to virtualization (vSphere), backup administration (Veeam), creation and documentation of protocols (Dokuwiki), creation and review of firewall rules (WatchGuard), taking charge of projects according to the needs of the foundation."
       },
       {
         "company": "Fundació Hospital d'Olot i Comarcal de la Garrotxa",
-        "title": "Help-Desk L2 technician",
+        "title": "IT Technician",
         "years": "March 2022 - November 2022",
-        "description": ""
+        "description": "Help-Desk L2."
       },
       {
         "company": "Infoself Sistemes",
-        "title": "Help-Desk L1 technician",
+        "title": "IT Technician",
         "years": "August 2021 - March 2022",
-        "description": "Job description"
+        "description": "Help-Desk L1."
       },
       {
         "company": "Embotits Collell",
-        "title": "Laborer",
+        "title": "Factory Laborer",
         "years": "Summers from 2017 to 2019 ",
-        "description": "Job description"
+        "description": "Laborer in a Food Factory."
       }
     ],
     "skills": [
@@ -100,10 +100,26 @@
       {
         "name": "VsPhere",
         "level": "80%"
-      },      
+      },
+      {
+        "name": "HTML 5",
+        "level": "70%"
+      },  
+      {
+        "name": "CSS",
+        "level": "50%"
+      },
+      {
+        "name": "GITHUB",
+        "level": "50%"
+      },
+      {
+        "name": "NETWORKING",
+        "level": "50%"
+      }, 
       {
         "name": "Backups (Veeam)",
-        "level": "70%"
+        "level": "60%"
       }
     ],
     "scores": [
@@ -114,8 +130,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Put your testimonial here!",
-        "user": "Marc Traver Serra - Director of Information Systems in Olot's Hospital "
+        "text": "Christian has always shown a very positive attitude and great professionalism towards the tasks that have been entrusted to him. He is a very motivated person for his work and carries it out professionally.",
+        "user": "Marc Traver Serra - Director of Information Systems in Fundació Hospital d'Olot i Comarcal de la Garrotxa"
       }
     ]
   }
