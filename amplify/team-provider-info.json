@@ -1,26 +1,26 @@
 {
-  "staging": {
-    "awscloudformation": {
-      "AuthRoleName": "amplify-amplifye9c7136f61df4-staging-140126-authRole",
-      "UnauthRoleArn": "arn:aws:iam::851121580279:role/amplify-amplifye9c7136f61df4-staging-140126-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::851121580279:role/amplify-amplifye9c7136f61df4-staging-140126-authRole",
-      "Region": "us-east-1",
-      "DeploymentBucketName": "amplify-amplifye9c7136f61df4-staging-140126-deployment",
-      "UnauthRoleName": "amplify-amplifye9c7136f61df4-staging-140126-unauthRole",
-      "StackName": "amplify-amplifye9c7136f61df4-staging-140126",
-      "StackId": "arn:aws:cloudformation:us-east-1:851121580279:stack/amplify-amplifye9c7136f61df4-staging-140126/e3898da0-c365-11ee-bd57-0efac79489fb",
-      "AmplifyAppId": "d2q21j86wk1zla"
-    },
-    "categories": {
-      "function": {
-        "curriculumData": {
-          "deploymentBucketName": "amplify-amplifye9c7136f61df4-staging-140126-deployment",
-          "s3Key": "amplify-builds/curriculumData-4864664c455754675332-build.zip"
+    "staging": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-amplifye9c7136f61df4-staging-140126-authRole",
+            "UnauthRoleArn": "arn:aws:iam::851121580279:role/amplify-amplifye9c7136f61df4-staging-140126-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::851121580279:role/amplify-amplifye9c7136f61df4-staging-140126-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-amplifye9c7136f61df4-staging-140126-deployment",
+            "UnauthRoleName": "amplify-amplifye9c7136f61df4-staging-140126-unauthRole",
+            "StackName": "amplify-amplifye9c7136f61df4-staging-140126",
+            "StackId": "arn:aws:cloudformation:us-east-1:851121580279:stack/amplify-amplifye9c7136f61df4-staging-140126/e3898da0-c365-11ee-bd57-0efac79489fb",
+            "AmplifyAppId": "d2q21j86wk1zla"
+        },
+        "categories": {
+            "function": {
+                "curriculumData": {
+                    "deploymentBucketName": "amplify-amplifye9c7136f61df4-staging-140126-deployment",
+                    "s3Key": "amplify-builds/curriculumData-4864664c455754675332-build.zip"
+                }
+            },
+            "api": {
+                "curriculumData": {}
+            }
         }
-      },
-      "api": {
-        "curriculumData": {}
-      }
     }
-  }
 }

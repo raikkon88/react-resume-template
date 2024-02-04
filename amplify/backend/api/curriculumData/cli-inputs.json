@@ -1,12 +1,12 @@
 {
-  "version": 1,
-  "paths": {
-    "/data": {
-      "name": "/data",
-      "lambdaFunction": "curriculumData",
-      "permissions": {
-        "setting": "open"
-      }
+    "version": 1,
+    "paths": {
+        "/data": {
+            "name": "/data",
+            "lambdaFunction": "curriculumData",
+            "permissions": {
+                "setting": "open"
+            }
+        }
     }
-  }
 }

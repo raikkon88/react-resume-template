@@ -1,155 +1,155 @@
 {
-  "main": {
-    "name": "John Doe",
-    "occupation": "Computer engineer",
-    "description": "This is the description",
-    "image": "profile.png",
-    "bio": "Set up your description",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "john@doe.com",
-    "phone": "999 999 999",
-    "address": {
-      "street": "My street",
-      "city": "My city",
-      "state": "My state",
-      "zip": "99999"
+    "main": {
+        "name": "John Doe",
+        "occupation": "Computer engineer",
+        "description": "This is the description",
+        "image": "profile.png",
+        "bio": "Set up your description",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "john@doe.com",
+        "phone": "999 999 999",
+        "address": {
+            "street": "My street",
+            "city": "My city",
+            "state": "My state",
+            "zip": "99999"
+        },
+        "website": "http://my.website.com",
+        "resumedownload": "http://my.resume.pdf.com",
+        "social": [
+            {
+                "name": "linkedin",
+                "url": "#",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "#",
+                "className": "fa fa-github"
+            },
+            {
+                "name": "Stack Overflow",
+                "url": "#",
+                "className": "fa fa-stack-overflow"
+            },
+            {
+                "name": "facebook",
+                "url": "#",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "twitter",
+                "url": "#",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "instagram",
+                "url": "#",
+                "className": "fa fa-instagram"
+            }
+        ]
     },
-    "website": "http://my.website.com",
-    "resumedownload": "http://my.resume.pdf.com",
-    "social": [
-      {
-        "name": "linkedin",
-        "url": "#",
-        "className": "fa fa-linkedin"
-      },
-      {
-        "name": "github",
-        "url": "#",
-        "className": "fa fa-github"
-      },
-      {
-        "name": "Stack Overflow",
-        "url": "#",
-        "className": "fa fa-stack-overflow"
-      },
-      {
-        "name": "facebook",
-        "url": "#",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "twitter",
-        "url": "#",
-        "className": "fa fa-twitter"
-      },
-      {
-        "name": "instagram",
-        "url": "#",
-        "className": "fa fa-instagram"
-      }
-    ]
-  },
-  "resume": {
-    "skillmessage": "Check my skills!",
-    "scoresmessage": "Check my degree scores!",
-    "education": [
-      {
-        "school": "Lorem ipsum",
-        "degree": "Higher Polytechnic School",
-        "graduated": "2015 - 2020",
-        "description": "Studies description"
-      },
-      {
-        "school": "Lorem ipsum",
-        "degree": "Vocational Institute",
-        "graduated": "2013 - 2015",
-        "description": "Studies description"
-      },
-      {
-        "school": "Lorem ipsum",
-        "degree": "Online Study Center",
-        "graduated": "6 weeks in 2014",
-        "description": "Studies description"
-      }
-    ],
-    "work": [
-      {
-        "company": "Lorem ipsum",
-        "title": "Full stack develooper",
-        "years": "September 2021 - Actually",
-        "description": "Job description"
-      },
-      {
-        "company": "Lorem ipsum",
-        "title": "Full-Stack developer",
-        "years": "December 2020 - Actually",
-        "description": "Job description"
-      }
-    ],
-    "skills": [
-      {
-        "name": "Javascript",
-        "level": "95%"
-      },
-      {
-        "name": "Docker",
-        "level": "90%"
-      },
-      {
-        "name": "Java",
-        "level": "90%"
-      },
-      {
-        "name": "BASH",
-        "level": "90%"
-      },
-      {
-        "name": "Python",
-        "level": "80%"
-      }
-    ],
-    "scores": [
-      { "name": "ALGEBRA", "level": "75%", "annotation": "" },
-      { "name": "CALCULATION", "level": "57%", "annotation": "" },
-      {
-        "name": "DISCRETE LOGIC AND MATHEMATICS",
-        "level": "75%",
-        "annotation": ""
-      },
-      {
-        "name": "PROGRAMMING METHODOLOGY AND TECHNOLOGY I",
-        "level": "77%",
-        "annotation": ""
-      },
-      {
-        "name": "COMPUTER STRUCTURE AND TECHNOLOGY",
-        "level": "61%",
-        "annotation": ""
-      }
-    ]
-  },
-  "portfolio": {
-    "projects": [
-      {
-        "title": "Project name",
-        "category": "Lorem ipsum",
-        "image": "p1.png",
-        "url": "#"
-      },
-      {
-        "title": "Project name",
-        "category": "Lorem ipsum",
-        "image": "p2.png",
-        "url": "#"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Put your testimonial here!",
-        "user": "Who said that from you??"
-      }
-    ]
-  }
+    "resume": {
+        "skillmessage": "Check my skills!",
+        "scoresmessage": "Check my degree scores!",
+        "education": [
+            {
+                "school": "Lorem ipsum",
+                "degree": "Higher Polytechnic School",
+                "graduated": "2015 - 2020",
+                "description": "Studies description"
+            },
+            {
+                "school": "Lorem ipsum",
+                "degree": "Vocational Institute",
+                "graduated": "2013 - 2015",
+                "description": "Studies description"
+            },
+            {
+                "school": "Lorem ipsum",
+                "degree": "Online Study Center",
+                "graduated": "6 weeks in 2014",
+                "description": "Studies description"
+            }
+        ],
+        "work": [
+            {
+                "company": "Lorem ipsum",
+                "title": "Full stack develooper",
+                "years": "September 2021 - Actually",
+                "description": "Job description"
+            },
+            {
+                "company": "Lorem ipsum",
+                "title": "Full-Stack developer",
+                "years": "December 2020 - Actually",
+                "description": "Job description"
+            }
+        ],
+        "skills": [
+            {
+                "name": "Javascript",
+                "level": "95%"
+            },
+            {
+                "name": "Docker",
+                "level": "90%"
+            },
+            {
+                "name": "Java",
+                "level": "90%"
+            },
+            {
+                "name": "BASH",
+                "level": "90%"
+            },
+            {
+                "name": "Python",
+                "level": "80%"
+            }
+        ],
+        "scores": [
+            { "name": "ALGEBRA", "level": "75%", "annotation": "" },
+            { "name": "CALCULATION", "level": "57%", "annotation": "" },
+            {
+                "name": "DISCRETE LOGIC AND MATHEMATICS",
+                "level": "75%",
+                "annotation": ""
+            },
+            {
+                "name": "PROGRAMMING METHODOLOGY AND TECHNOLOGY I",
+                "level": "77%",
+                "annotation": ""
+            },
+            {
+                "name": "COMPUTER STRUCTURE AND TECHNOLOGY",
+                "level": "61%",
+                "annotation": ""
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "Project name",
+                "category": "Lorem ipsum",
+                "image": "p1.png",
+                "url": "#"
+            },
+            {
+                "title": "Project name",
+                "category": "Lorem ipsum",
+                "image": "p2.png",
+                "url": "#"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [
+            {
+                "text": "Put your testimonial here!",
+                "user": "Who said that from you??"
+            }
+        ]
+    }
 }
