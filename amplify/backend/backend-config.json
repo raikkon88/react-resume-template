@@ -1,0 +1,43 @@
+{
+  "api": {
+    "curriculumData": {
+      "dependsOn": [
+        {
+          "attributes": [
+            "Name",
+            "Arn"
+          ],
+          "category": "function",
+          "resourceName": "curriculumData"
+        }
+      ],
+      "providerPlugin": "awscloudformation",
+      "service": "API Gateway"
+    }
+  },
+  "function": {
+    "curriculumData": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_function_curriculumData_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "curriculumData"
+        }
+      ]
+    },
+    "AMPLIFY_function_curriculumData_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "curriculumData"
+        }
+      ]
+    }
+  }
+}
