@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import ReactGA from "react-ga";
-import $ from "jquery";
 import "./App.css";
 import Header from "./Components/Header";
 import Footer from "./Components/Footer";
@@ -8,7 +7,11 @@ import About from "./Components/About";
 import Resume from "./Components/Resume";
 import Testimonials from "./Components/Testimonials";
 import Portfolio from "./Components/Portfolio";
-import axios from 'axios'
+import { Amplify } from 'aws-amplify'
+import amplifyConfig from './amplifyconfiguration.json'
+import { get } from 'aws-amplify/api'
+
+Amplify.configure(amplifyConfig)
 
 class App extends Component {
   constructor(props) {
@@ -22,8 +25,14 @@ class App extends Component {
     ReactGA.pageview(window.location.pathname);
   }
 
-  getResumeData() {
-    axios.get(process.env.REACT_APP_DATA_URL || "/resumeData.json").then(res=> this.setState({ resumeData: res.data })).catch(err => alert(err))
+  async getResumeData() {
+    const restOperation = get({ 
+      apiName: 'curriculumData',
+      path: '/data' 
+    });
+    const { body } = await restOperation.response //.then(res=> this.setState({ resumeData: res })).catch(err => console.error(err));
+    const response = await body.json();
+    this.setState({ resumeData: response })
   }
 
   componentDidMount() {

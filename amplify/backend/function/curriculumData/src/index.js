@@ -8,11 +8,11 @@ exports.handler = async (event) => {
     console.log(`EVENT: ${JSON.stringify(response.data)}`);
     return {
         statusCode: 200,
-    //  Uncomment below to enable CORS requests
-    //  headers: {
-    //      "Access-Control-Allow-Origin": "*",
-    //      "Access-Control-Allow-Headers": "*"
-    //  },
+        //  Uncomment below to enable CORS requests
+        headers: {
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Headers": "*"
+        },
         body: JSON.stringify(response.data),
     };
 };

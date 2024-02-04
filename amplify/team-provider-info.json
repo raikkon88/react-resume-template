@@ -15,7 +15,7 @@
       "function": {
         "curriculumData": {
           "deploymentBucketName": "amplify-amplifye9c7136f61df4-staging-140126-deployment",
-          "s3Key": "amplify-builds/curriculumData-35565a34767a2f663855-build.zip"
+          "s3Key": "amplify-builds/curriculumData-4864664c455754675332-build.zip"
         }
       },
       "api": {

@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "@aws-amplify/cli": "^12.10.1",
+    "aws-amplify": "^6.0.13",
     "axios": "^1.6.7",
     "jquery": "^3.6.0",
     "react": "^16.14.0",
