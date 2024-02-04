@@ -13,9 +13,6 @@ exports.handler = async (event) => {
     //      "Access-Control-Allow-Origin": "*",
     //      "Access-Control-Allow-Headers": "*"
     //  },
-        body: response.data,
+        body: JSON.stringify(response.data),
     };
 };
-
-
-https://olcuweu413.execute-api.us-east-1.amazonaws.com/staging/data
